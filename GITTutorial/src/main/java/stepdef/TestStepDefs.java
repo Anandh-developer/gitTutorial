@@ -17,4 +17,8 @@ public class TestStepDefs {
 	public void commit_from_first_project_but_git_changed() {
 
 	}
+//commit from four tag
+	@Given("commit from four tag")
+	public void commit_from_four_tag() {
+	}
 }
