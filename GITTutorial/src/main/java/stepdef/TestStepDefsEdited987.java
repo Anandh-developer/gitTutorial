@@ -2,13 +2,14 @@ package stepdef;
 
 import io.cucumber.java.en.Given;
 
-public class TestStepDefs {
+public class TestStepDefsEdited987 {
 
 	@Given("commit from first project")
 	public void commit_from_first_project() {
 		System.out.println("Changed from local");
 
 	}
+	//edited
 	@Given("commit from third tag")
 	public void commit_from_third_tag() {
 		System.out.println("third tag");
