@@ -8,7 +8,8 @@ public class TestStepDefs {
 	public void commit_from_first_project() {
 
 		System.out.println("Changed from local remote changes");
-		System.out.println("Test One");
+		System.out.println("Test Two");
+		System.out.println("Test Three");
 	}
 	@Given("commit from third tag")
 	public void commit_from_third_tag() {
