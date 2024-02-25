@@ -24,6 +24,11 @@ public class TestStepDefs {
 		System.out.println("sixth tag");
 
 	}
+	@Given("commit from seventh tag")
+	public void commit_from_seventh_tag() {
+		System.out.println("seventh tag");
+
+	}
 	@Given("commit from second project")
 	public void commit_from_second_project() {
 		System.out.println("Changed from local two");
@@ -36,4 +41,10 @@ public class TestStepDefs {
 	@Given("commit from four tag")
 	public void commit_from_four_tag() {
 	}
+		@Given("commit from eighth tag")
+	public void commit_from_eighth_tag() {
+		System.out.println("eighth tag");
+
+	}
+
 }
