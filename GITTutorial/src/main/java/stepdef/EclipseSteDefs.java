@@ -6,7 +6,7 @@ public class EclipseSteDefs {
 
 	@Given("to test the commit one")
 	public void to_test_the_commit_one() {
-System.out.println("Console test");
+System.out.println("Console test eclipse");
 	}
 
 	@Given("to test the commit Three")
