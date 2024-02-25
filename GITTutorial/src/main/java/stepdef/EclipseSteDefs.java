@@ -18,6 +18,7 @@ System.out.println("Console test eclipse");
 	}
 	@Given("to test the commit two")
 	public void to_test_the_commit_two() {
+		System.out.println("Commit two");
 
 	}
 
