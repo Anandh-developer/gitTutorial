@@ -8,5 +8,9 @@ public class EclipseSteDefs {
 	public void to_test_the_commit_one() {
 
 	}
+	@Given("to test the commit two")
+	public void to_test_the_commit_two() {
+
+	}
 
 }
