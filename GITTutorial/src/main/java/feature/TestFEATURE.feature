@@ -14,3 +14,6 @@ Given commit from four tag
 @TestFive
 Scenario: To verify GIT fetch functionality
 Given commit from fifth tag
+@TestSix
+Scenario: To verify GIT fetch functionality
+Given commit from sixth tag

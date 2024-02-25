@@ -19,6 +19,11 @@ public class TestStepDefs {
 		System.out.println("fifth tag");
 
 	}
+		@Given("commit from sixth tag")
+	public void commit_from_sixth_tag() {
+		System.out.println("sixth tag");
+
+	}
 	@Given("commit from second project")
 	public void commit_from_second_project() {
 		System.out.println("Changed from local two");
