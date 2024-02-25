@@ -6,7 +6,7 @@ public class TestStepDefs {
 
 	@Given("commit from first project")
 	public void commit_from_first_project() {
-		System.out.println("Changed from local remote changes");
+		System.out.println("Changed from local remote changes Two");
 
 	}
 	@Given("commit from third tag")
